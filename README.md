@@ -1,4 +1,4 @@
 # Git - The Simple Guide
 
-http://github.com/wangqianfront/git-guide/
+http://wangqianfront.github.io/git-guide/
 
